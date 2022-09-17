@@ -1,0 +1,15 @@
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\Uriel.Infra.deps.json
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\Uriel.Infra.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\ref\Uriel.Infra.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\Uriel.Infra.pdb
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\Uriel.Domain.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\bin\Debug\net5.0\Uriel.Domain.pdb
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.csproj.AssemblyReference.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.AssemblyInfoInputs.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.AssemblyInfo.cs
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.csproj.CopyComplete
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\ref\Uriel.Infra.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Infra\Uriel.Infra\obj\Debug\net5.0\Uriel.Infra.pdb

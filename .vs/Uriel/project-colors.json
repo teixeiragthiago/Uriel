@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4408d166-a55c-4227-918b-6f8938413d34": {
+      "ProjectGuid": "4408d166-a55c-4227-918b-6f8938413d34",
+      "DisplayName": "Uriel.Domain",
+      "ColorIndex": 0
+    },
+    "352f070f-a99d-4531-816a-55a2cdb6e73f": {
+      "ProjectGuid": "352f070f-a99d-4531-816a-55a2cdb6e73f",
+      "DisplayName": "Uriel.CrossCutting",
+      "ColorIndex": 1
+    },
+    "40417aca-2601-43f9-9a96-3f3bd786f915": {
+      "ProjectGuid": "40417aca-2601-43f9-9a96-3f3bd786f915",
+      "DisplayName": "Uriel.Infra",
+      "ColorIndex": 2
+    },
+    "ee1e610c-0d80-4d26-9bcd-195627a10d3f": {
+      "ProjectGuid": "ee1e610c-0d80-4d26-9bcd-195627a10d3f",
+      "DisplayName": "Uriel.Api",
+      "ColorIndex": 3
+    },
+    "682ee1c4-b332-4706-8ef2-9663a3d588c0": {
+      "ProjectGuid": "682ee1c4-b332-4706-8ef2-9663a3d588c0",
+      "DisplayName": "Api.Tests",
+      "ColorIndex": 4
+    },
+    "2c3fad46-89cb-4a1d-ac48-80a58b24601a": {
+      "ProjectGuid": "2c3fad46-89cb-4a1d-ac48-80a58b24601a",
+      "DisplayName": "Domain.Tests",
+      "ColorIndex": 5
+    },
+    "2cc93528-8434-4935-a25f-a12dea1e8e97": {
+      "ProjectGuid": "2cc93528-8434-4935-a25f-a12dea1e8e97",
+      "DisplayName": "Infra.Tests",
+      "ColorIndex": 6
+    },
+    "80d10a52-d16f-4fb0-acf4-dc208d9837bf": {
+      "ProjectGuid": "80d10a52-d16f-4fb0-acf4-dc208d9837bf",
+      "DisplayName": "CrossCutting.Tests",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

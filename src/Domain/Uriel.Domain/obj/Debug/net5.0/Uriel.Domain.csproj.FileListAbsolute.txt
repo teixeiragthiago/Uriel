@@ -1,0 +1,12 @@
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\bin\Debug\net5.0\Uriel.Domain.deps.json
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\bin\Debug\net5.0\Uriel.Domain.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\bin\Debug\net5.0\ref\Uriel.Domain.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\bin\Debug\net5.0\Uriel.Domain.pdb
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.csproj.AssemblyReference.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.AssemblyInfoInputs.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.AssemblyInfo.cs
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\ref\Uriel.Domain.dll
+C:\Users\Bacharel\Documents\Projects\Uriel\Uriel\src\Domain\Uriel.Domain\obj\Debug\net5.0\Uriel.Domain.pdb
