@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Infra\\Uriel.Infra\\Uriel.Infra.csproj": {}
+    "/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/Uriel.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj": {
+    "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj",
+        "projectUniqueName": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj",
         "projectName": "Uriel.Domain",
-        "projectPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj",
-        "packagesPath": "C:\\Users\\Bacharel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\obj\\",
+        "projectPath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj",
+        "packagesPath": "/Users/thiagoteixeira/.nuget/packages/",
+        "outputPath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bacharel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/thiagoteixeira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -55,7 +53,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,36 +63,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Infra\\Uriel.Infra\\Uriel.Infra.csproj": {
+    "/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/Uriel.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Infra\\Uriel.Infra\\Uriel.Infra.csproj",
+        "projectUniqueName": "/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/Uriel.Infra.csproj",
         "projectName": "Uriel.Infra",
-        "projectPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Infra\\Uriel.Infra\\Uriel.Infra.csproj",
-        "packagesPath": "C:\\Users\\Bacharel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Infra\\Uriel.Infra\\obj\\",
+        "projectPath": "/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/Uriel.Infra.csproj",
+        "packagesPath": "/Users/thiagoteixeira/.nuget/packages/",
+        "outputPath": "/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bacharel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/thiagoteixeira/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj": {
-                "projectPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj"
+              "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj": {
+                "projectPath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj"
               }
             }
           }
@@ -105,8 +102,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -123,7 +120,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }

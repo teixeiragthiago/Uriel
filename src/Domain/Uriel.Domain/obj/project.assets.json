@@ -1,26 +1,34 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
+    "net6.0": {
       "MediatR/10.0.1": {
         "type": "package",
         "dependencies": {
           "MediatR.Contracts": "1.0.1"
         },
         "compile": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/MediatR.dll": {}
+          "lib/netstandard2.1/MediatR.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Contracts/1.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         }
       },
       "MediatR.Extensions.Microsoft.DependencyInjection/10.0.1": {
@@ -39,10 +47,14 @@
       "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
@@ -121,37 +133,35 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
+    "net6.0": [
       "MediatR >= 10.0.1",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 10.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bacharel\\.nuget\\packages\\": {}
+    "/Users/thiagoteixeira/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj",
+      "projectUniqueName": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj",
       "projectName": "Uriel.Domain",
-      "projectPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj",
-      "packagesPath": "C:\\Users\\Bacharel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\obj\\",
+      "projectPath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj",
+      "packagesPath": "/Users/thiagoteixeira/.nuget/packages/",
+      "outputPath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bacharel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/thiagoteixeira/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -162,8 +172,8 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "dependencies": {
           "MediatR": {
             "target": "Package",
@@ -180,7 +190,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -189,7 +200,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
       }
     }
   }

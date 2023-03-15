@@ -1,0 +1,12 @@
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/bin/Debug/net6.0/Uriel.Domain.deps.json
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/bin/Debug/net6.0/Uriel.Domain.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/bin/Debug/net6.0/Uriel.Domain.pdb
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.csproj.AssemblyReference.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.AssemblyInfoInputs.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.AssemblyInfo.cs
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.csproj.CoreCompileInputs.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/refint/Uriel.Domain.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/Uriel.Domain.pdb
+/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/obj/Debug/net6.0/ref/Uriel.Domain.dll

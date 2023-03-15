@@ -1,0 +1,15 @@
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/bin/Debug/net6.0/Uriel.Infra.deps.json
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/bin/Debug/net6.0/Uriel.Infra.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/bin/Debug/net6.0/Uriel.Infra.pdb
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/bin/Debug/net6.0/Uriel.Domain.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/bin/Debug/net6.0/Uriel.Domain.pdb
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.csproj.AssemblyReference.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.AssemblyInfoInputs.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.AssemblyInfo.cs
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.csproj.CoreCompileInputs.cache
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.csproj.CopyComplete
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/refint/Uriel.Infra.dll
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/Uriel.Infra.pdb
+/Users/thiagoteixeira/Documents/Uriel/src/Infra/Uriel.Infra/obj/Debug/net6.0/ref/Uriel.Infra.dll

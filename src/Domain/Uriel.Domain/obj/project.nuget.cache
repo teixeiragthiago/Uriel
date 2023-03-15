@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0QON+7wFRh78velkqpbnKLc4r5AYy9xzWMQ6bflxH4SqA0vdmv8jIyBfcV0+bwTDjMoifWBa6CoxXmg+xpYCqA==",
+  "dgSpecHash": "LEKOtrdIifkZlg4o8ujRoRVyWBdQXNqZ6hWlajQrFuP1aZWOmDEN8MoURt6Cgu7hBD4XPpa7ZMdzSuXS2KI/WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bacharel\\Documents\\Projects\\Uriel\\Uriel\\src\\Domain\\Uriel.Domain\\Uriel.Domain.csproj",
+  "projectFilePath": "/Users/thiagoteixeira/Documents/Uriel/src/Domain/Uriel.Domain/Uriel.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bacharel\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\Bacharel\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\Bacharel\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
-    "C:\\Users\\Bacharel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "/Users/thiagoteixeira/.nuget/packages/mediatr/10.0.1/mediatr.10.0.1.nupkg.sha512",
+    "/Users/thiagoteixeira/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/thiagoteixeira/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/10.0.1/mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "/Users/thiagoteixeira/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
